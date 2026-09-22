@@ -1,0 +1,9 @@
+services:
+  web:
+    image: nginx:alpine
+    container_name: master-ventures-presentation
+    restart: always
+    ports:
+      -  8765:80
+    volumes:
+      - ./public:/usr/share/nginx/html:ro
