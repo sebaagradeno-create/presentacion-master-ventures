@@ -2,9 +2,8 @@
 
 Ecosistema Inmobiliario, Constructivo & IA — Automatizame.uy
 
-## ?? URLs de Producción
+## ?? URL de Producción (Única)
 - [https://presentacion.automatizameuy.com](https://presentacion.automatizameuy.com)
-- [https://office.automatizameuy.com](https://office.automatizameuy.com)
 
 ## ?? Estructura del Proyecto
 - `public/index.html` — Landing page interactiva y presentación ejecutiva.
